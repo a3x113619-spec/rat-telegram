@@ -1,2 +1,1 @@
 # RAT Telegram
-# trigger
